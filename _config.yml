@@ -125,7 +125,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: </shaicodes> # blog_name will be displayed in your blog page
 blog_description: the holy grail of my programming journey!
-                  
+
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -159,8 +159,8 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: 
-    rss_url: 
+  - name:
+    rss_url:
 
 # -----------------------------------------------------------------------------
 # Collections
